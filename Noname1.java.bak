@@ -1,7 +1,6 @@
-//tianjia
 class demo001 
 {
-	//diao·¢ÉúµÄ¿÷Ëð
+	//diao
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World!");
